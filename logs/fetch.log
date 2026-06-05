@@ -28,3 +28,18 @@
 2026-06-04 19:34:16,586 [INFO] MSN: ✓ 1 dòng
 2026-06-04 19:34:19,064 [INFO] BID: ✓ 1 dòng
 2026-06-04 19:34:19,064 [INFO] === Xong: 10/10 tickers | 10 dòng mới ===
+2026-06-05 18:18:13,529 [INFO] Fetch từ 2026-06-04 → 2026-06-04
+2026-06-05 18:18:14,076 [INFO] Failed to extract font properties from /usr/share/fonts/truetype/noto/NotoColorEmoji.ttf: Can not load face (unknown file format; error code 0x2)
+2026-06-05 18:18:14,098 [INFO] generated new fontManager
+2026-06-05 18:18:16,906 [INFO] Device registered: 354c82000fe98b4ab7cfcc1c6cce8932 (version 0.0.1)
+2026-06-05 18:18:22,723 [INFO] VCB: ✓ 1 dòng
+2026-06-05 18:18:25,752 [INFO] VIC: ✓ 1 dòng
+2026-06-05 18:18:28,548 [INFO] VHM: ✓ 1 dòng
+2026-06-05 18:18:31,564 [INFO] HPG: ✓ 1 dòng
+2026-06-05 18:18:34,518 [INFO] TCB: ✓ 1 dòng
+2026-06-05 18:18:37,350 [INFO] MBB: ✓ 1 dòng
+2026-06-05 18:18:40,207 [INFO] VNM: ✓ 1 dòng
+2026-06-05 18:18:43,127 [INFO] FPT: ✓ 1 dòng
+2026-06-05 18:18:46,269 [INFO] MSN: ✓ 1 dòng
+2026-06-05 18:18:49,084 [INFO] BID: ✓ 1 dòng
+2026-06-05 18:18:49,084 [INFO] === Xong: 10/10 tickers | 10 dòng mới ===
